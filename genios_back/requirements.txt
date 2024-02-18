@@ -1,0 +1,5 @@
+django-rest-framework
+django-cors-headers
+requests
+pandas
+load_dotenv
