@@ -1,7 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+/genios_front/node_modules
+/genios_back/venv
+/genios_back/.idea
 /.pnp
 .pnp.js
 
