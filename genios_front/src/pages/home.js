@@ -248,8 +248,6 @@ function Home() {
     };
 
 
-    console.log("ENV", process.env)
-
     return (
         <Grid container spacing={2} justifyContent="center" alignContent="center">
             <Grid item xs={8}>

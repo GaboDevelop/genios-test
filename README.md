@@ -19,6 +19,10 @@ Sigue las instrucciones en la página oficial de Docker para instalar Docker en 
 
 https://github.com/GaboDevelop/genios-test
 
+## 3. CREAR .ENV
+
+Debe modificar los archivos "env" tanto de la carpeta de front y backend con los datos necesarios. El front con la url del backend. Y el backend con la URL del api https://api-inference.huggingface.co/models/finiteautomata y el token
+
 ## Construir las imágenes:
 
 ### Back-end:
